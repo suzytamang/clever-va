@@ -1,2 +1,2 @@
 # clever-va
-CLEVER for VA NLP on VINCI
+CLEVER for VA NLP on VINCI and Rockies
